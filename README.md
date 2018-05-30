@@ -1,4 +1,4 @@
-# Invitation set-up instructions
+# Invitation Instructions 
 
 Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from this device. No personal information will be collected.
 
