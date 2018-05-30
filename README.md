@@ -1,8 +1,8 @@
 # Connect to an Outline server 
 
-If your invitation link is blocked, follow these instructions to access to the open internet from this device. No personal information will be collected.
+![alt text](instructions-dark-2.png "Description goes here")
 
-![alt text](instructions-dark.png "Description goes here")
+If your invitation link is blocked, follow these instructions to access to the open internet from this device. No personal information will be collected.
 
 
 ## Android
