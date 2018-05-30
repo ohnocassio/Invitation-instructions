@@ -1,6 +1,6 @@
 # Invitation instructions 
 
-Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from this device. No personal information will be collected.
+Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from your device. No personal information will be collected.
 
 ![alt text](instructions-dark-3.png "Description goes here")
 
