@@ -2,7 +2,7 @@
 
 If your invitation link is blocked, follow these instructions to access to the open internet from this device. No personal information will be collected.
 
-![alt text](instructions.png "Description goes here")
+![alt text](instructions-dark.png "Description goes here")
 
 
 ## Android
