@@ -1,6 +1,6 @@
-# Connect to an Outline server 
+# Invitation set-up instructions
 
-If your invitation link is blocked, follow these instructions to access to the open internet from this device. No personal information will be collected.
+Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from this device. No personal information will be collected.
 
 ![alt text](instructions-dark-3.png "Description goes here")
 
