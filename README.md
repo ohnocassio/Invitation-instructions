@@ -2,40 +2,26 @@
 
 Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from your device. No personal information will be collected.
 
-![alt text](instructions-dark-3.png "Description goes here")
+## 1. Copy your access code
+`ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
+
+## 2. Install Outline
+|Downloads|  |
+| ------------- | ------------- |
+| [Android](https://www.google.com) | If Google Play is not accessible, [get it here](https://www.google.com)  |
+| [iOS](https://www.google.com) | Get it on the App Store |
+| [Windows](https://www.google.com) | Download Outline.exe and double click to launch |
+| [macOS](https://www.google.com) | Download outline.dmg, double click to install. Add Outline to your applications folder, double click to launch |
+| Linux | See instruction below |
+
+## 3. Add server and start connecting
+Open the app and confirm your new server. Tap or click to connect. 
+**Having trouble?** Try copying your access code again to add your server. 
 
 
-## Android
-
-1. Copy the access code `ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
-2. [Get Outline for Android](https://www.google.com). If Google Play is not accessible, [get it here](https://www.google.com).
-3. Open the app and confirm your new server. Tap to connect.
-> **Having trouble?** Try copying your access code again to add your server. 
 
 
-
-## iOS
-
-1. Copy the access code `ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
-2.  [Get Outline for iOS](https://www.google.com).
-3. Open the app and confirm your new server. Click to connect.
-> **Having trouble?** Try copying your access code again to add your server. 
-
-## Windows
-
-1. Copy the access code `ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
-2.  [Get Outline for Windows](https://www.google.com). Download the Outline.exe file and double click to launch.
-3. Open the app and confirm your new server. Tap to connect.
-> **Having trouble?** Try copying your access code again to add your server. 
-
-## macOS
-
-1. Copy the access code `ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
-2.  [Get Outline for macOS](https://www.google.com). Download the outline.dmg file and double click to install. Add uProxy to your applications folder, double click to launch.
-3. Open the app and confirm your new server. Tap to connect.
-> **Having trouble?** Try copying your access code again to add your server. 
-
-## Linux
+## Linux set-up instructions
 
 1.  [Get Outline for Linux](https://www.google.com). Download and install the latest version of the Shadowsocks client from GitHub.
 2. Copy and paste the following command in your terminal.
