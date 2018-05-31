@@ -3,9 +3,13 @@
 Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from your device. No personal information will be collected.
 
 ## 1. Copy your access code
+![alt text](instructions-dark-3.png "Description goes here")
 `ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
 
+
 ## 2. Install Outline
+![alt text](instructions-dark-3.png "Description goes here")
+
 |Downloads|  |
 | ------------- | ------------- |
 | [Android](https://www.google.com) | If Google Play is not accessible, [get it here](https://www.google.com)  |
@@ -14,15 +18,14 @@ Have an invitation to connect to an Outline server? Follow these instructions to
 | [macOS](https://www.google.com) | Download outline.dmg, double click to install. Add Outline to your applications folder, double click to launch |
 | Linux | See instruction below |
 
+
 ## 3. Add server and start connecting
+![alt text](instructions-dark-3.png "Description goes here")
 Open the app and confirm your new server. Tap or click to connect. 
 **Having trouble?** Try copying your access code again to add your server. 
 
 
-
-
 ## Linux set-up instructions
-
 1.  [Get Outline for Linux](https://www.google.com). Download and install the latest version of the Shadowsocks client from GitHub.
 2. Copy and paste the following command in your terminal.
 `ss-local -s 162.243.222.47 -p 54114 -l <your_local_port> -k khVr8sW7RGHy] -m aes-256-cfb`
