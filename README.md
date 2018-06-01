@@ -4,7 +4,7 @@ Have an invitation to connect to an Outline server? Follow these instructions to
 
 ## 1. Copy your access code
 ![alt text](github-instructions-001.png "Description goes here")
-`ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
+`ss://xxx` located at the bottom of your invitation email or message. The Outline app will instantly add this server from your clipboard.
 
 
 ## 2. Install Outline
