@@ -3,12 +3,12 @@
 Have an invitation to connect to an Outline server? Follow these instructions to access to the open internet from your device. No personal information will be collected.
 
 ## 1. Copy your access code
-![alt text](instructions-dark-3.png "Description goes here")
+![alt text](github-001.png "Description goes here")
 `ss://xxx` from your invitation. The Outline app will instantly add this server from your clipboard.
 
 
 ## 2. Install Outline
-![alt text](instructions-dark-3.png "Description goes here")
+![alt text](github-002.png "Description goes here")
 
 |Downloads|  |
 | ------------- | ------------- |
@@ -20,7 +20,7 @@ Have an invitation to connect to an Outline server? Follow these instructions to
 
 
 ## 3. Add server and start connecting
-![alt text](instructions-dark-3.png "Description goes here")
+![alt text](github-003.png "Description goes here")
 Open the app and confirm your new server. Tap or click to connect. 
 **Having trouble?** Try copying your access code again to add your server. 
 
