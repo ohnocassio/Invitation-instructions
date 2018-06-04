@@ -16,7 +16,7 @@ Have an invitation to connect to an Outline server? Follow these instructions to
 | [iOS](https://www.google.com) | Get it on the App Store |
 | [Windows](https://www.google.com) | Download Outline.exe and double click to launch |
 | [macOS](https://www.google.com) | Download outline.dmg, double click to install. Add Outline to your applications folder, double click to launch |
-| Linux | See instruction below |
+| Linux | See Linux set-up instructions below |
 
 
 ## 3. Add server and start connecting
