@@ -10,12 +10,12 @@ Have an invitation to connect to an Outline server? Follow these instructions to
 ## 2. Install Outline
 ![alt text](github-instructions-002.png "Description goes here")
 
-|Downloads|  |
+|Download|  |
 | ------------- | ------------- |
-| [Outline for Android](https://play.google.com/store/apps/details?id=org.outline.android.client) | If Google Play is not accessible, [get it here](https://github.com/Jigsaw-Code/outline-releases/blob/master/client/Outline.apk?raw=true). |
-| [iOS](https://itunes.apple.com/app/outline-app/id1356177741) | Get it on the App Store |
-| [Windows](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/Outline-Client.exe) | Download Outline.exe and double click to launch. |
-| [macOS](https://itunes.apple.com/app/outline-app/id1356178125) | Download outline.dmg, double click to install. Add Outline to your applications folder, double click to launch. |
+| [Android ›](https://play.google.com/store/apps/details?id=org.outline.android.client) | If Google Play is not accessible, [get it here](https://github.com/Jigsaw-Code/outline-releases/blob/master/client/Outline.apk?raw=true). |
+| [iOS ›](https://itunes.apple.com/app/outline-app/id1356177741) | Get Outline on the App Store |
+| [Windows ›](https://raw.githubusercontent.com/Jigsaw-Code/outline-releases/master/client/Outline-Client.exe) | Download Outline.exe and double click to launch. |
+| [macOS ›](https://itunes.apple.com/app/outline-app/id1356178125) | Download outline.dmg, double click to install. Add Outline to your applications folder, double click to launch. |
 | Linux | See Linux set-up instructions below. |
 
 
